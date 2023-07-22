@@ -9,8 +9,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ZoeDepth-colab/blob/main/ZoeDepth_colab.ipynb) | ZoeDepth_colab
 
 ## Main Repo
-https://huggingface.co/spaces/shariqfarooq/ZoeDepth/tree/main <br />
 https://github.com/isl-org/ZoeDepth <br />
+https://huggingface.co/spaces/shariqfarooq/ZoeDepth/tree/main <br />
 
 ## Paper
 https://arxiv.org/abs/2302.12288
