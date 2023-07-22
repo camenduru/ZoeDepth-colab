@@ -16,3 +16,4 @@ https://github.com/isl-org/ZoeDepth
 https://arxiv.org/abs/2302.12288
 
 ## Output
+![Screenshot 2023-07-22 122904](https://github.com/camenduru/ZoeDepth-colab/assets/54370274/c9c37c1b-e1d1-4b2d-a306-919292e66056)
