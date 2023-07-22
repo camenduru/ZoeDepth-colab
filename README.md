@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ZoeDepth-colab/blob/main/ZoeDepth_colab.ipynb) | zero123_colab (Pro)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ZoeDepth-colab/blob/main/ZoeDepth_colab.ipynb) | ZoeDepth_colab
 
 ## Main Repo
 https://huggingface.co/spaces/shariqfarooq/ZoeDepth/tree/main
